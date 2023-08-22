@@ -1,0 +1,167 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration:underline;
+    color:black;
+}
+
+body{
+    background-color: #DBEFFF;
+    display: block;
+    margin: 0;
+}
+.btntheme{
+    background-color: white;
+    color: black;
+    font-family: aileron;
+    font-size: 15px;
+    position: absolute;
+    top: 65%;
+    left: 45%;
+}
+
+.signup{
+    font-family: aileron;
+    color:black;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    top: 70%;
+    left: 39%;
+}
+table{
+    
+    border: 0;       
+}
+.container{
+    position: relative;
+    text-align: center;
+    
+}
+.about{
+    font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+}
+
+.call{
+    font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color:white;
+    position: absolute;
+    top: 15px;
+    left: 160px;
+}
+.contact{
+    font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color:white;
+    position: absolute;
+    top: 15px;
+    right: 250px;
+}
+.twitter{
+    position: absolute;
+    top:13px;
+    right:150px;
+}
+.mail{
+    position: absolute;
+    top:8px;
+    right:115px;
+
+}
+.facebook{
+    position: absolute;
+    top:10px;
+    right:75px;
+    border-radius: 5px;
+} 
+.job-assistance{
+    font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color:black;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.gallery{
+    font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color:black;
+    position: absolute;
+    top: 60px;
+    left: 200px;
+}
+.login{
+  font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color:black;
+    position: absolute;
+    top: 60px;
+    right: 260px;   
+}
+.loginlogo{
+    position: absolute;
+    top:51px;
+    right:295px;
+}
+.feedback{
+    font-family:aileron ,sans-serif;
+    font-weight:600;
+    font-size: 17px;
+    font-style: normal;
+    text-align: center; 
+    color:black;
+    position: absolute;
+    top: 60px;
+    right: 150px;   
+}
+.home{
+    position: absolute;
+    top:51px;
+    right:60px;
+}
+.signout{
+    font-family: aileron, sans-serif;
+    font-weight: 600;
+    font-size: 17px;  
+    font-style: normal;
+    text-align: center; 
+    color:black;
+    position: absolute;
+    top: 60px;
+    right: 60px;
+}
+.marquee{
+    font-family: aileron,sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: red;
+    position: relative;
+    top: -3%;
+}
